@@ -360,3 +360,12 @@ To add a new provider, create `backend/src/providers/myprovider.js` with `genera
 - The AI does not verify that a project idea is unique or has never been built before.
 - AI responses may be incorrect, outdated, or incomplete. Always review suggestions critically.
 - Rate limiting (20 requests per 15 minutes per IP by default) applies to all AI endpoints.
+
+
+  screenshots
+  <img width="958" height="458" alt="Screenshot 2026-10-15 081806" src="https://github.com/user-attachments/assets/723a8b9b-57ae-4def-a591-a6b366318c1b" />
+  <img width="953" height="496" alt="Screenshot 2026-10-15 082018" src="https://github.com/user-attachments/assets/75b24af3-cf8b-4caa-8a8c-e0c40aaa8663" />
+  <img width="959" height="475" alt="Screenshot 2026-10-15 082032" src="https://github.com/user-attachments/assets/b35eac4a-8940-410b-9539-72267b703ea7" />
+
+
+
